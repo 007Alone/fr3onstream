@@ -6,7 +6,7 @@ client.on('ready', () => {
   console.log(`bot online by Fr3onGamer`);
   console.log('=======================================')
 });
-const developers = ["314135031029170197"]
+const developers = ["516674052644012042"]
 const adminprefix = "-";
 client.on('message', message => {
     var argresult = message.content.split(` `).slice(1).join(' ');
